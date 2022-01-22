@@ -1,0 +1,22 @@
+.panda-bg-info{
+    background-color: #FCEAE8;
+}
+.categories img{
+    width: 100px;
+}
+.watch-bg{
+    background-color: #fd7e14;
+}
+.bag-bg{
+    background-color: orchid;
+}
+.shoes-bg{
+    background-color: blue;
+}
+.panda-btn-buy-now{
+    color: white;
+    font-weight: 600;
+    border: none;
+    padding: 9px 25px;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
